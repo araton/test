@@ -1,2 +1,2 @@
 # test
-Test repositorio GIT
+Test repositorio GIT inicial
